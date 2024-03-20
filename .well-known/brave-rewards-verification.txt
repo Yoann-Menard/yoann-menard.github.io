@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: yoann-menard.github.io
-Token: be9ce4f6fa1d73ad21693805f181af75fecf9985b94dfcbfc57c238c423c8424
